@@ -1,0 +1,3 @@
+[submodule "resources/META-INF/resources/plugins/jcrop"]
+	path = resources/META-INF/resources/plugins/jcrop
+	url = git@github.com:tapmodo/Jcrop.git
