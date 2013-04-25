@@ -11,9 +11,7 @@
           :href "/plugins/jcrop/css/jquery.Jcrop.css"}])
 
 (def js
-  (list jquery/js
-        [:script {:src "/plugins/jcrop/js/jquery.Jcrop.min.js"}]))
+  [:script {:src "/plugins/jcrop/js/jquery.Jcrop.min.js"}])
 
 (def js-debug
-  (list jquery/js
-        [:script {:src "/plugins/jcrop/js/jquery.Jcrop.js"}]))
+  [:script {:src "/plugins/jcrop/js/jquery.Jcrop.js"}])
